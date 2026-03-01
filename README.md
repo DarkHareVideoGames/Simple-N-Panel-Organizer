@@ -22,7 +22,7 @@ A Blender addon to organize, reorder, and resize your N-Panel tabs easily. Tab o
 ## Author
 OPQA Videogames
 
+![Simple N-Panel Organizer UI](images/screenshot.png)
+
 ## License
 MIT
-
-![Simple N-Panel Organizer UI](images/screenshot.png)
