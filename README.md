@@ -1,5 +1,9 @@
 # Simple N-Panel Organizer
 
+[**Download the Addon**](addon/Simple_N-Panel_Organizer.zip)
+
+[**Read the Manual**](MANUAL.md)
+
 ## Features
 - Drag-and-drop tab reordering
 - Resize tabs for better visibility
@@ -7,17 +11,12 @@
 - Easy-to-use interface in the N-panel
 
 ## Installation
-1. Download
+1. Download [`Simple_N-Panel_Organizer.zip`](addon/Simple_N-Panel_Organizer.zip) from this repository.
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install** and select the downloaded zip file.
 4. Enable the addon in the list.
 
-[**Download the Addon**]
-
-[**Read the Manual**](MANUAL.md)
-
 ![Simple N-Panel Organizer UI](images/screenshot.png)
-
 
 ## License
 **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
