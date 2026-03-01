@@ -15,6 +15,7 @@
 4. Enable the addon in the list.
 
 [**Download the Addon**](https://github.com/DarkHareVideoGames/Simple-N-Panel-Organizer/releases/latest/download/Simple_N-Panel_Organizer.zip)
+
 [**Read the Manual**](MANUAL.md)
 
 ![Simple N-Panel Organizer UI](images/screenshot.png)
