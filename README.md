@@ -1,5 +1,3 @@
-![Simple N-Panel Organizer UI](images/screenshot.png)
-
 # Simple N-Panel Organizer
 
 A Blender addon to organize, reorder, and resize your N-Panel tabs easily. Tab order is persistent and automatically saved when you apply changes.
@@ -26,3 +24,5 @@ OPQA Videogames
 
 ## License
 MIT
+
+![Simple N-Panel Organizer UI](images/screenshot.png)
