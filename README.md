@@ -2,6 +2,8 @@
 
 [**Download the Addon (.zip)**](Simple-N-Panel-Organizer.zip)
 
+[**Download Blender Addon ZIP (init only)**](addon/Simple-N-Panel-Organizer-addon.zip)
+
 [**Read the Manual**](MANUAL.md)
 
 ## Features
@@ -11,7 +13,7 @@
 - Easy-to-use interface in the N-panel
 
 ## Installation
-1. Download [`Simple-N-Panel-Organizer.zip`](Simple-N-Panel-Organizer.zip) from this repository.
+1. Download [`Simple-N-Panel-Organizer.zip`](Simple-N-Panel-Organizer.zip) or [`Simple-N-Panel-Organizer-addon.zip`](addon/Simple-N-Panel-Organizer-addon.zip) from this repository.
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install** and select the downloaded zip file.
 4. Enable the addon in the list.
