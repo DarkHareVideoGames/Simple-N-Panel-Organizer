@@ -1,9 +1,5 @@
 # Simple N-Panel Organizer
 
-![Simple N-Panel Organizer UI](images/screenshot.png)
-
-Organize, reorder, and resize your Blender N-panel tabs with a simple, persistent UI. Save your preferred layout and restore it automatically every session.
-
 [**Download the Addon (.zip)**](Simple-N-Panel-Organizer.zip)
 
 [**Read the Manual**](MANUAL.md)
@@ -19,6 +15,13 @@ Organize, reorder, and resize your Blender N-panel tabs with a simple, persisten
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install** and select the downloaded zip file.
 4. Enable the addon in the list.
+
+![Simple N-Panel Organizer UI](images/screenshot.png)
+
+## Addon Files
+- [`addon/reorder_npanel_tabs.py`](addon/reorder_npanel_tabs.py)
+- [`addon/__init__.py`](addon/__init__.py)
+- [`addon/blender_manifest.toml`](addon/blender_manifest.toml)
 
 ## License
 **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
